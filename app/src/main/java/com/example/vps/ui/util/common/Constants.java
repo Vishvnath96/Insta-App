@@ -57,7 +57,7 @@ public class Constants {
     public static final String SHOW_TAGS = "contributor";
 
     /** API Key */
-    public static final String API_KEY = "a060f4c4-c47c-4a21-a3e4-f188e44598a3"; // Use your API Key when API rate limit exceeded
+    public static final String API_KEY = "your-key"; // Use your API Key when API rate limit exceeded
 
     /** Default number to set the image on the top of the textView */
     public static final int DEFAULT_NUMBER = 0;
