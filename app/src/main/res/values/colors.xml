@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="rs_dcdcdc">#dcdcdc</color>
+    <color name="rs_414141">#414141</color>
+    <color name="rs_5da60d">#5da60d</color>
+    <color name="rs_f5a623">#f5a623</color>
+    <color name="rs_323232">#323232</color>
+    <color name="grey_b7b7b7">#b7b7b7</color>
+    <color name="grey_dcdbdb">#dcdbdb</color>
+    <color name="gradient_start">#7f000000</color>
+    <color name="gradient_end">#00000000</color>
+    <color name="grey_373737">#373737</color>
+    <color name="recyclerViewDivider">#61ced7db</color>
+    <color name="black_646464">#646464</color>
+
+    <color name="warm_grey_50">#80969494</color>
+    <color name="refund_done_tab_divider">#53c34f</color>
+    <color name="grey_light">#797979</color>
+    <color name="skip_text_color">#8d8d8d</color>
+    <color name="black_0d">#0d74ff</color>
+    <color name="hint_text">#61000000</color>
+    <color name="corp_hint">#f0772d</color>
+    <color name="green_sucess">#c4e2a6</color>
+    <color name="green_sucess_text">#417505</color>
+    <color name="red_failure">#e09aa3</color>
+    <color name="red_failure_text">#8a0717</color>
+    <color name="red_failure_text_flight">#d0021b</color>
+    <color name="red_failure_bg_flight">#ffd6d6</color>
+
+
+    <color name="hotel_soldout">#d0011b</color>
+    <color name="collection_background">#f6fbff</color>
+    <color name="holiday_timer_color">#00b73d</color>
+    <color name="orange_ff9f02">#ff9f02</color>
+    <color name="grey_26000000">#26000000</color>
+    <color name="yellow_fcf8c9">#fcf8c9</color>
+    <color name="flt_seat_lavotary_bg_color">#e0e0e0</color>
+
+    <color name="swipe_color_1">#4CAF50</color>
+    <color name="swipe_color_2">#03A9F4</color>
+    <color name="swipe_color_3">#FFC107</color>
+    <color name="swipe_color_4">#FF5722</color>
+
+    <color name="color_author">#4CAF50</color>
+    <color name="color_section">#8E24AA</color>
+
+    <!-- Colors for settings of color theme-->
+    <color name="white">#ffffff</color>
+    <color name="violet">#9c27b0</color>
+    <color name="light_green">#8bc34a</color>
+
+    <!-- Colors for gradient.xml file -->
+    <color name="gradient_center_color">#880d0d0f</color>
+    <color name="gradient_end_color">#885d5d5e</color>
+    <color name="gradient_start_color">#880f0f10</color>
+
+    <color name="color_trail_text">#102027</color>
+    <color name="color_date_text">#a4a4a4</color>
+
+    <color name="color_app_bar_text">#005689</color>
+    <color name="color_tab_text">#a7c0cd</color>
+
+    <color name="nav_bar_start">#7db1ec</color>
+    <color name="nav_bar_end">#002e5b</color>
+
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Insta News</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Insta News</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Rate us</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <!-- Strings for items in activity_main_drawer.xml -->
+    <string name="ic_title_home">Home</string>
+    <string name="ic_title_world">World</string>
+    <string name="ic_title_science">Science</string>
+    <string name="ic_title_sport">Sport</string>
+    <string name="ic_title_environment">Environment</string>
+    <string name="ic_title_entertainment">Entertainment</string>
+    <string name="ic_title_society">Society</string>
+    <string name="ic_title_india">India</string>
+    <string name="ic_title_tech">Technology</string>
+
+    <string name="ic_title_fashion">Fashion</string>
+    <string name="ic_title_business">Business</string>
+    <string name="ic_title_culture">Culture</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">You are offline. \nPlease check your Internet
+        connection.</string>
+    <string name="no_data_found">No Data found for selected section</string>
+
+
+    <!-- Content description of the image -->
+    <string name="image_des">Image</string>
+    <string name="image_des_ic_share">Share</string>
+
+    <string name="updated_just_now">Updated just now</string>
+    <string name="share_article">Share Article</string>
+
+    <string name="the_guardian">theguardian</string>
+
+    <!-- Strings for Section -->
+    <string name="world">world</string>
+    <string name="science">science</string>
+    <string name="sport">sport</string>
+    <string name="environment">environment</string>
+    <string name="society">society</string>
+    <string name="fashion">fashion</string>
+    <string name="business">business</string>
+    <string name="culture">culture</string>
+</resources>

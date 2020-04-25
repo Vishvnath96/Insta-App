@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106114761447",
+    "firebase_url": "https://insta-news-c8df0.firebaseio.com",
+    "project_id": "insta-news-c8df0",
+    "storage_bucket": "insta-news-c8df0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106114761447:android:e290ede6242c459c7a9842",
+        "android_client_info": {
+          "package_name": "com.example.vps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106114761447-ioq06n940p6gg6sl8elmvfu4830f3v3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NbdZ1gpAaD0Z4ZOZ2mpXSLA5cIzw3dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106114761447-ioq06n940p6gg6sl8elmvfu4830f3v3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
