@@ -13,17 +13,17 @@ public static final String API_KEY = "YOUR-API-KEY";
 1. Navigation Drawer
 2. Room Data Persistence
 3. Live Data
-Pagination for getting data on demand
-Fragments
-Retrofit
-ViewPager plus TabLayout
-Loaders
-Intent
-Guardian API
-JSON Parsing
-Glide
-CardView
-RecyclerView
+4. Pagination for getting data on demand
+5. Fragments
+6. Retrofit
+7. ViewPager plus TabLayout
+8. Loaders
+9. Intent
+10. Guardian API
+11. JSON Parsing
+12. Glide
+13. CardView
+14. RecyclerView
 
 #Snap1
 ![drawer](https://user-images.githubusercontent.com/33184243/80300929-37ec7200-87be-11ea-8a3f-3000e6af4e09.jpg)
