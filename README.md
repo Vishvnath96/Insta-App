@@ -10,9 +10,9 @@ public static final String API_KEY = "YOUR-API-KEY";
 
 
 # Features
-Navigation Drawer
-Room Data Persistence
-Live Data
+1. Navigation Drawer
+2. Room Data Persistence
+3. Live Data
 Pagination for getting data on demand
 Fragments
 Retrofit
