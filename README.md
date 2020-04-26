@@ -3,13 +3,13 @@ The purpose is to make a News app which gives a user regularly and updated news 
 we have used Guardian API for getting news data in json format.
  
 
-#API Key Note
+# API Key Note
 You need to insert your API key. Go to a file named Constants.java and find the value of API_KEY. Replace "test" with "YOUR-API-KEY".
 
 public static final String API_KEY = "YOUR-API-KEY";
 
 
-#Features
+# Features
 Navigation Drawer
 Room Data Persistence
 Live Data
